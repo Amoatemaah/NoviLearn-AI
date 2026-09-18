@@ -1,0 +1,25 @@
+body
+front-family: Arial, sans-serif
+text-align:center;
+padding:50px;
+background-color: #f5f7fa;
+}
+
+hI {
+  color:#2563eb;
+  front-size: 42px;
+}
+
+p {
+  color: #444:
+front-size: 0;
+}
+
+Ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  front-size: 18px;
